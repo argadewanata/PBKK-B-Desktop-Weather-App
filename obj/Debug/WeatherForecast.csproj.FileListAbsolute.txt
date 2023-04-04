@@ -1,0 +1,14 @@
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\WeatherForecast\bin\Debug\WeatherForecast.exe.config
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\WeatherForecast\bin\Debug\WeatherForecast.exe
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\WeatherForecast\bin\Debug\WeatherForecast.pdb
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\WeatherForecast\obj\Debug\WeatherForecast.csproj.AssemblyReference.cache
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\WeatherForecast\obj\Debug\WeatherForecast.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\WeatherForecast\obj\Debug\WeatherForecast.Form1.resources
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\WeatherForecast\obj\Debug\WeatherForecast.Properties.Resources.resources
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\WeatherForecast\obj\Debug\WeatherForecast.csproj.GenerateResource.cache
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\WeatherForecast\obj\Debug\WeatherForecast.csproj.CoreCompileInputs.cache
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\WeatherForecast\obj\Debug\WeatherForecast.exe
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\WeatherForecast\obj\Debug\WeatherForecast.pdb
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\WeatherForecast\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\WeatherForecast\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\WeatherForecast\obj\Debug\WeatherForecast.csproj.CopyComplete
